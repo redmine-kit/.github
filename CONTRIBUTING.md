@@ -6,7 +6,7 @@ Thank you for your interest in the projects of [redmine-kit](https://github.com/
 
 - **Issues first** for anything larger than a small fix, so that the approach can be agreed on before you spend time on it.
 - **Security issues** are not reported in public; see [SECURITY.md](SECURITY.md).
-- **Design-stage projects** (redmine-serverless, Redmine Serverless, redmine_github) accept corrections and questions about their design documents.
+- **Design-stage projects** (redmine-kit/serverless, Redmine Serverless, redmine_github) accept corrections and questions about their design documents.
 
 ## Pull requests
 
