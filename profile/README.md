@@ -22,6 +22,7 @@ Open-source tools for [Redmine](https://www.redmine.org/): Redmine plugins for t
 | Project | What it is | Status | Documentation |
 | --- | --- | --- | --- |
 | [serverless](https://github.com/redmine-kit/serverless) | A design for running the latest Redmine on AWS Lambda, with RDS for PostgreSQL, S3, SQS and SES, using the Redmine Serverless plugins | Design stage | [Docs](https://redmine-kit.github.io/serverless/) |
+| [design-guide](https://github.com/redmine-kit/design-guide) | How Redmine 7's own screens are built, for plugin screens that follow core, and how Redmine 7 applies a theme, with a checklist for theme authors | Early development | [Docs](https://redmine-kit.github.io/design-guide/) |
 
 ## Getting involved
 
