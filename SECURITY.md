@@ -27,4 +27,4 @@ redmine-kit is not affiliated with the Redmine project. Report vulnerabilities i
 
 ## 脆弱性の報告(日本語)
 
-脆弱性は、GitHub で非公開で報告してください。該当するリポジトリの **Security** のタブを開き、**Report a vulnerability** を選びます。公開の Issue、Discussion、プル リクエストでは報告しないでください。Redmine 本体の脆弱性は、Redmine projectに報告してください。
+脆弱性は、GitHub で非公開で報告してください。該当するリポジトリの **Security** のタブを開き、**Report a vulnerability** を選びます。公開の Issue、Discussion、Pull Request では報告しないでください。Redmine 本体の脆弱性は、Redmine projectに報告してください。
