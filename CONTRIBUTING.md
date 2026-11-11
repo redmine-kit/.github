@@ -6,7 +6,7 @@ Thank you for your interest in the projects of [redmine-kit](https://github.com/
 
 - **Issues first** for anything larger than a small fix, so that the approach can be agreed on before you spend time on it.
 - **Security issues** are not reported in public; see [SECURITY.md](SECURITY.md).
-- **Design-stage projects** (Serverless, Redmine AWS, Redmine AWS Lambda, Redmine AWS S3, Redmine AWS SES, Redmine AWS SQS, Redmine GitHub) accept corrections and questions about their design documents.
+- **Projects in early development or under consideration** (Serverless, Redmine AWS, Redmine AWS Lambda, Redmine AWS S3, Redmine AWS SES, Redmine AWS SQS, Redmine AWS SSM, Redmine AWS Cost Explorer, Redmine GitHub) accept corrections and questions about their design documents.
 
 ## Pull requests
 
