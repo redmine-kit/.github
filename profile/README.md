@@ -16,7 +16,9 @@ Open-source tools for [Redmine](https://www.redmine.org/): Redmine plugins for t
 | [Redmine AWS SQS](https://github.com/redmine-kit/redmine_aws_sqs) | Runs Redmine's background jobs on Amazon SQS: the settings of aws-activejob-sqs, records of failed jobs, and resending | Early development | [Docs](https://redmine-kit.github.io/redmine_aws_sqs/) |
 | [Redmine AWS SSM](https://github.com/redmine-kit/redmine_aws_ssm) | Loads settings and secrets from AWS Systems Manager Parameter Store into environment variables before Rails starts | Early development | [Docs](https://redmine-kit.github.io/redmine_aws_ssm/) |
 | [Redmine AWS Cost Explorer](https://github.com/redmine-kit/redmine_aws_costexplorer) | Shows the AWS account's costs from Cost Explorer in Redmine's administration: this month, the forecast, by service and by day | Early development | [Docs](https://redmine-kit.github.io/redmine_aws_costexplorer/) |
+| [Redmine Issue Template](https://github.com/redmine-kit/redmine_issue_template) | Issue templates: a template chooser for New issue, Markdown templates and YAML forms, synced from `.redmine/` in the project's repository | Early development | [Docs](https://redmine-kit.github.io/redmine_issue_template/) |
 | [Redmine GitHub](https://github.com/redmine-kit/redmine_github) | Connects GitHub repositories through a GitHub App, instead of repositories on the server | Under consideration | [Docs](https://redmine-kit.github.io/redmine_github/) |
+| [Redmine Help](https://github.com/redmine-kit/redmine_help) | Turns the header's Help link into help for the current screen, in the user's language, from the Redmine guide, other plugins' help and the operator's pages | Early development | [Docs](https://redmine-kit.github.io/redmine_help/) |
 
 ## Projects
 
@@ -24,6 +26,7 @@ Open-source tools for [Redmine](https://www.redmine.org/): Redmine plugins for t
 | --- | --- | --- | --- |
 | [serverless](https://github.com/redmine-kit/serverless) | The image, infrastructure templates and deploy commands for running the latest Redmine on AWS Lambda, with RDS, S3, SQS and SES, using the Redmine AWS plugins | Early development | [Docs](https://redmine-kit.github.io/serverless/) |
 | [design-guide](https://github.com/redmine-kit/design-guide) | How Redmine 7's own screens are built, for plugin screens that follow core, and how Redmine 7 applies a theme, with a checklist for theme authors | Early development | [Docs](https://redmine-kit.github.io/design-guide/) |
+| [redmine-guide](https://github.com/redmine-kit/redmine-guide) | The Redmine guide from redmine.org as Markdown, with translations and a map from Redmine's screens to its topics, for Redmine Help | — | [Docs](https://redmine-kit.github.io/redmine-guide/) |
 
 ## Getting involved
 
