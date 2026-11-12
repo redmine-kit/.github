@@ -1,6 +1,6 @@
 # Redmine Kit
 
-Open-source tools for [Redmine](https://www.redmine.org/): Redmine plugins for theme authors and for running Redmine on AWS serverless services, and the design of a serverless Redmine.
+Open-source tools for [Redmine](https://www.redmine.org/): Redmine plugins for issue templates, help for each screen and theme authors, and the plugins, image, infrastructure templates and deploy commands for running Redmine on AWS serverless services.
 
 **Documentation:** https://redmine-kit.github.io/ · 日本語: https://redmine-kit.github.io/ja/
 
